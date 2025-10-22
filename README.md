@@ -7,6 +7,5 @@ I plan to add future algorithms in this repository as I learn more.
 # Structure
 Each algorithm has its own folder structure and README as documentation. 
 
-[[sieveOfEratosthenes/README|Sieve of Erastosthenes]]
-
+[Sieve of Eratosthenes](sieveOfEratosthenes/README.md)
 
